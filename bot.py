@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 print(" Hi! I'm a AIChatbot... Ask me anything : )\n   \n    ")
 
