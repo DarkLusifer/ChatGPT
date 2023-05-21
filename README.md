@@ -1,6 +1,6 @@
 # ChatGPT
-<h2> This is simple AI bot script made with python <h2>
-<h4> usage </h4>
+This is simple AI bot script made with python
+usage
 
 - pip install python <br>
 - pip install openai <br>
